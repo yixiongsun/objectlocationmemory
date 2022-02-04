@@ -1,0 +1,154 @@
+{
+  "m1te1a4": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 102,
+        "y": 108,
+        "r": 46
+      },
+      "BR": {
+        "x": 307,
+        "y": 348,
+        "r": 43
+      }
+    }
+  },
+  "m2te1a4": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 101,
+        "y": 109,
+        "r": 46
+      },
+      "BR": {
+        "x": 306,
+        "y": 345,
+        "r": 43
+      }
+    }
+  },
+  "m3te1a4": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "BL",
+    "old": "TR",
+    "coordinates": {
+      "TR": {
+        "x": 312,
+        "y": 116,
+        "r": 46
+      },
+      "BL": {
+        "x": 93,
+        "y": 340,
+        "r": 43
+      }
+    }
+  },
+  "m4te1a4": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "BL",
+    "old": "TR",
+    "coordinates": {
+      "TR": {
+        "x": 314,
+        "y": 116,
+        "r": 46
+      },
+      "BL": {
+        "x": 94,
+        "y": 341,
+        "r": 43
+      }
+    }
+  },
+  "m1t1a4": {
+    "type": "circle",
+    "trial": "train",
+    "condition": "long",
+    "new": "TR",
+    "old": "BR",
+    "coordinates": {
+      "TR": {
+        "x": 316,
+        "y": 114,
+        "r": 45
+      },
+      "BR": {
+        "x": 307,
+        "y": 347,
+        "r": 43
+      }
+    }
+  },
+  "m2t1a4": {
+    "type": "circle",
+    "trial": "train",
+    "condition": "long",
+    "new": "TR",
+    "old": "BR",
+    "coordinates": {
+      "TR": {
+        "x": 316,
+        "y": 115,
+        "r": 45
+      },
+      "BR": {
+        "x": 308,
+        "y": 345,
+        "r": 43
+      }
+    }
+  },
+  "m3t1a4": {
+    "type": "circle",
+    "trial": "train",
+    "condition": "long",
+    "new": "BR",
+    "old": "TR",
+    "coordinates": {
+      "TR": {
+        "x": 316,
+        "y": 115,
+        "r": 45
+      },
+      "BR": {
+        "x": 308,
+        "y": 345,
+        "r": 43
+      }
+    }
+  },
+  "m4t1a4": {
+    "type": "circle",
+    "trial": "train",
+    "condition": "long",
+    "new": "BR",
+    "old": "TR",
+    "coordinates": {
+      "TR": {
+        "x": 314,
+        "y": 110,
+        "r": 45
+      },
+      "BR": {
+        "x": 306,
+        "y": 344,
+        "r": 43
+      }
+    }
+  }
+}
