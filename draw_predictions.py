@@ -3,7 +3,7 @@ import numpy as np
 import math
 import json
 import pandas as pd
-with open("trials_3.json") as f:
+with open("trials.json") as f:
     parameters = json.load(f)
 print(parameters.keys())
 
@@ -62,7 +62,7 @@ keys = list(parameters.keys())
 
 
 
-for ind in [6]:
+for ind in range(0,8):
 
     trial = parameters[keys[ind]]
     predictions = np.load("predictions/" + keys[ind] +  ".npy")

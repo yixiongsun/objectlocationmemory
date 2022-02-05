@@ -1,0 +1,154 @@
+{
+  "m1te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 99,
+        "y": 106,
+        "r": 45
+      },
+      "BR": {
+        "x": 302,
+        "y": 347,
+        "r": 43
+      }
+    }
+  },
+  "m2te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 102,
+        "y": 108,
+        "r": 45
+      },
+      "BR": {
+        "x": 305,
+        "y": 347,
+        "r": 43
+      }
+    }
+  },
+  "m3te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 101,
+        "y": 108,
+        "r": 45
+      },
+      "BR": {
+        "x": 303,
+        "y": 347,
+        "r": 43
+      }
+    }
+  },
+  "m4te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 99,
+        "y": 105,
+        "r": 45
+      },
+      "BR": {
+        "x": 306,
+        "y": 347,
+        "r": 43
+      }
+    }
+  },
+  "m5te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 99,
+        "y": 111,
+        "r": 45
+      },
+      "BR": {
+        "x": 307,
+        "y": 345,
+        "r": 43
+      }
+    }
+  },
+  "m6te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 105,
+        "y": 108,
+        "r": 45
+      },
+      "BR": {
+        "x": 301,
+        "y": 345,
+        "r": 43
+      }
+    }
+  },
+  "m7te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 101,
+        "y": 106,
+        "r": 45
+      },
+      "BR": {
+        "x": 306,
+        "y": 349,
+        "r": 43
+      }
+    }
+  },
+  "m8te1a5": {
+    "type": "circle",
+    "trial": "test",
+    "condition": "long",
+    "new": "TL",
+    "old": "BR",
+    "coordinates": {
+      "TL": {
+        "x": 102,
+        "y": 109,
+        "r": 45
+      },
+      "BR": {
+        "x": 307,
+        "y": 348,
+        "r": 43
+      }
+    }
+  }
+}

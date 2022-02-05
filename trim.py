@@ -1,19 +1,19 @@
 import cv2
 
-cap = cv2.VideoCapture("raw/m3t1a4.mp4")
+cap = cv2.VideoCapture("raw/m8te1a5.mp4")
 fps = cap.get(cv2.CAP_PROP_FPS)
 frame_count = cap.get(cv2.CAP_PROP_FRAME_COUNT)
 print(fps)
 print(frame_count)
 fourcc = cv2.VideoWriter_fourcc(*"mpv4")
-output = cv2.VideoWriter("trimmed/m3t1a4.mp4", fourcc, fps, (448, 448))
+output = cv2.VideoWriter("trimmed/m8t1a5.mp4", fourcc, fps, (448, 448))
 
 print(output.get(cv2.CAP_PROP_FPS))
 frame_number = 0
-start = 94
+start = 73
 cap.set(cv2.CAP_PROP_POS_MSEC, start * 1000)
 # 20 minutes = 20 * 60 * 1000 ms seconds
-duration = 20
+duration = 10
 
 while True:
 
